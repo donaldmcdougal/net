@@ -2,8 +2,6 @@
 ## donaldmcdougal's Java Network Utilities
 
 Here is some code to help get you started:
-
-    package com.donaldmcdougal.utils.net;
     
     import java.io.IOException;
     import java.net.InetAddress;
