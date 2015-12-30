@@ -3,6 +3,7 @@
 
 Here is some code to help get you started:
     
+```java
     import java.io.IOException;
     import java.net.InetAddress;
     
@@ -29,6 +30,7 @@ Here is some code to help get you started:
             System.out.println("**********************************");
         }
     }
+```
 
 Look at the source to learn more about the library.  There is only one class file.
 
